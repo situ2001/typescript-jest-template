@@ -1,5 +1,7 @@
 # typescript-jest-template
 
+![](idea.png)
+
 This is a template for quickly implementing ideas in a TDD fashion.
 
 ## Motivation
