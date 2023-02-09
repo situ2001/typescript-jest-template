@@ -5,6 +5,7 @@
   "repository": "https://github.com/situ2001/typescript-jest-template.git",
   "author": "situ2001 <yongcong2001@outlook.com>",
   "license": "MIT",
+  "private": "true",
   "scripts": {
     "build": "tsc",
     "test": "jest",
