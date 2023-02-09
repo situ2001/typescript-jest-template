@@ -1,0 +1,8 @@
+{
+  "name": "typescript-jest-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/situ2001/typescript-jest-template.git",
+  "author": "situ2001 <yongcong2001@outlook.com>",
+  "license": "MIT"
+}
