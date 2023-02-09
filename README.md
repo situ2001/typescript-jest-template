@@ -14,28 +14,28 @@ Just use this template to create a new repository.
 
 After creating the repository, clone it to your local machine. Then, install the dependencies.
 
-```bash
-$ yarn
+```shell
+yarn
 ```
 
 After that, you can start writing your code. The source codes are in `src` directory. The test codes are in `__tests__` directory.
 
 If you want to run the tests, run the following command.
 
-```bash
-$ yarn test
+```shell
+yarn test
 ```
 
 If you want to build the source codes, run the following command.
 
-```bash
-$ yarn build
+```shell
+yarn build
 ```
 
 If you want to directly run typescript code, run the following command.
 
-```bash
-$ npx ts-node src/<your-file>.ts
+```shell
+npx ts-node src/<your-file>.ts
 ```
 
 Enjoy!
